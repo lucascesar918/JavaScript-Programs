@@ -1,3 +1,3 @@
 # JavaScript-Programs
-Some of what I developed while studying JavaScript
+Some of what I developed while studying JavaScript<br>
 🇺🇸 **English**
