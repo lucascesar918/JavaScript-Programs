@@ -65,9 +65,7 @@ var profiles = [
 ]
 
 //Checks if there is a certain property inside an object
-function checkProp(obj, prop){
-    return obj.hasOwnProperty(prop)
-}
+let checkProp = (obj,prop) => obj.hasOwnProperty(prop)
 
 //Searches the profiles that matches the informations given
 function searchProfile (array, prop, value){
@@ -105,4 +103,4 @@ function searchProfile (array, prop, value){
     return "User not found"
 }
 
-console.log(searchProfile(profiles, "name", "bRuCe"))
+console.log(searchProfile(profiles, "name", "bruce"))
