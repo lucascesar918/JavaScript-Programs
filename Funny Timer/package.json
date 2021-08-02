@@ -1,0 +1,14 @@
+{
+  "name": "onlyjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas César Freitas",
+  "license": "ISC",
+  "dependencies": {
+    "play-sound": "^1.1.3"
+  }
+}
